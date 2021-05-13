@@ -70,22 +70,4 @@ and [Code of Conduct](https://github.com/bigcommerce/big-design/blob/master/CODE
 
 ### Development
 
-Running the following commands will run `big-design` and `docs` in watch mode.
-
-```
-yarn
-yarn run build
-yarn run start
-```
-
-Run tests with:
-
-```
-yarn run test
-```
-
-Run linter with:
-
-```
-yarn run lint
-```
+See our [Development Workflow](https://github.com/bigcommerce/big-design/blob/master/CONTRIBUTING.md#development-workflow).
